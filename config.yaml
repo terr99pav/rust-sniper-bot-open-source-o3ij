@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (d5b727989be5ba69)
+project:
+  name: rust-sniper-bot-open-source-o3ij
+  tag: d5b727989be5ba69
+  env: production
+cfg_bufferondj03:
+  enabled: true
+  workers: 3
+cfg_fluxtlm2ss:
+  timeout_sec: 21
+  retry: 1
+cfg_pulseja2vxk:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
